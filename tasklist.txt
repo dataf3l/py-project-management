@@ -1,0 +1,11 @@
+1;Comprar Pollo;15;h
+2;Comprar Papas;15;h
+3;Alcaparras;5;h
+4;Comprar Otros;20;h
+5;Pelar;15;h
+6;Calentar;5;h
+7;Mezclar;3;h
+8;Agregar Ingredientes;1;h
+9;Cocinar;30;h
+10;Servir;15;h
+11;Cobrar;5;h

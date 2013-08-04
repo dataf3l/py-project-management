@@ -1,0 +1,14 @@
+digraph G {
+rankdir=LR
+node[shape=box]
+"1.Comprar Pollo"->"2.Comprar Papas";
+"2.Comprar Papas"->"3.Alcaparras";
+"3.Alcaparras"->"4.Comprar Otros";
+"4.Comprar Otros"->"5.Pelar";
+"6.Calentar"->"7.Mezclar";
+"7.Mezclar"->"8.Agregar Ingredientes";
+"5.Pelar"->"8.Agregar Ingredientes";
+"8.Agregar Ingredientes"->"9.Cocinar";
+"9.Cocinar"->"10.Servir";
+"10.Servir"->"11.Cobrar";
+}
